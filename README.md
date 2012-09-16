@@ -3,7 +3,7 @@ playtemplatedemo
 
 Demo how you can accomplish using external, hot reloadable templates using groovy in play 1.2.x - it is extracted from an internal project.
 
-What does is do?
+What does it do?
 ----------------
 
 - it lets you define an external template path (the root where your templates live)
