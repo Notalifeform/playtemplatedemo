@@ -1,0 +1,5 @@
+# Default portalmodel messages
+# You can specialize this file for each language.
+# For exemple, for french create a messages.fr file
+
+feedback.failed=System error. Your message has not been sent. We are sorry. Please try again.

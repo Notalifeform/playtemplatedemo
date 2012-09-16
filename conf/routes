@@ -1,0 +1,7 @@
+# This file defines all module routes (Higher priority routes first)
+#
+#
+# ~~~~
+
+*           /{pageCode}                                                     Page.showStatic
+*           /                                                               Page.showStatic
